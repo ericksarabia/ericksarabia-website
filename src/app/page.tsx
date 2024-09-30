@@ -64,7 +64,6 @@ export default function Page() {
                 title={work.company}
                 subtitle={work.title}
                 href={work.href}
-                badges={work.badges}
                 period={`${work.start} - ${work.end ?? "Present"}`}
               />
             </BlurFade>
@@ -109,7 +108,7 @@ export default function Page() {
         </div>
       </section>
       <section id="projects">
-        <div className="space-y-4 w-full mb-8">
+        <div className="space-y-4 w-full mb-8 lg:mb-0">
           <BlurFade delay={BLUR_FADE_DELAY * 11}>
             <h2 className="text-xl font-bold">My Contributions</h2>
           </BlurFade>

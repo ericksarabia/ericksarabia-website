@@ -64,7 +64,6 @@ export const DATA = {
     {
       company: "Danone",
       href: "https://www.danone.com/",
-      badges: [],
       location: "Remote",
       title: "IT Manager",
       logoUrl: "/danone.png",
@@ -73,7 +72,6 @@ export const DATA = {
     },
     {
       company: "Skydropx",
-      badges: [],
       href: "https://www.skydropx.com/",
       location: "Remote",
       title: "Technical Leader » Engineering Manager",
@@ -84,7 +82,6 @@ export const DATA = {
     {
       company: "Televisa Digital",
       href: "https://www.televisa.com/",
-      badges: [],
       location: "Remote",
       title: "Frontend Engineer » Technical Leader",
       logoUrl: "/televisa.jpg",
@@ -94,7 +91,6 @@ export const DATA = {
     {
       company: "NAAT.TECH",
       href: "https://www.naat.tech/",
-      badges: [],
       location: "Remote",
       title: "Frontend Engineer",
       logoUrl: "/naat.jpg",
@@ -106,7 +102,6 @@ export const DATA = {
     {
       company: "FINAGAM",
       href: "https://finagam.com.mx/",
-      badges: [],
       location: "Remote",
       title: "Web Developer",
       logoUrl: "/finagam.jpg",
@@ -116,7 +111,6 @@ export const DATA = {
     {
       company: "Zeniaq Technologies",
       href: "https://zeniaq.com/",
-      badges: [],
       location: "Remote",
       title: "Web Developer",
       logoUrl: "/zeniaq.svg",
@@ -126,7 +120,6 @@ export const DATA = {
     {
       company: "Mantiz Game Studio",
       href: "http://www.mantizgs.com/",
-      badges: [],
       location: "Remote",
       title: "Intern » Game Developer",
       logoUrl: "/mantiz.png",
