@@ -109,7 +109,7 @@ export default function Page() {
         </div>
       </section>
       <section id="projects">
-        <div className="space-y-4 w-full">
+        <div className="space-y-4 w-full mb-8">
           <BlurFade delay={BLUR_FADE_DELAY * 11}>
             <h2 className="text-xl font-bold">My Contributions</h2>
           </BlurFade>
