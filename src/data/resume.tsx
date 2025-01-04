@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Erick Sarabia",
   initials: "ES",
-  url: "https://3ricksarabia.vercel.app",
+  url: "https://ericksarabia.vercel.app",
   location: "Hidalgo, Mexico",
   locationLink: "https://maps.app.goo.gl/bpHJJ8r5LoMW2rJU8",
   description:
@@ -32,14 +32,14 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/3ricksarabia",
+        url: "https://github.com/ericksarabia",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/3ricksarabia/",
+        url: "https://www.linkedin.com/in/ericksarabia/",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -53,7 +53,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "3ricksarabia@gmail.com",
+        url: "erick.sarabia@outlook.com",
         icon: Icons.email,
 
         navbar: false,
