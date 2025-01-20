@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Engineering Manager / Software Engineer / JAMstack enthusiasts / Developer Experience.",
   summary:
-    "Software Engineer with 11+ years of experience developing web applications using JavaScript, TypeScript, React and Node.js, with a focus on optimizing web projects and improving development experience. Much of my time is spent researching and implementing new web technologies. The best way to learn is by solving real problems.",
+    "Software Engineer with 12+ years of experience developing web applications using JavaScript, TypeScript, React and Node.js, with a focus on optimizing web projects and improving development experience. Much of my time is spent researching and implementing new web technologies. The best way to learn is by solving real problems.",
   avatarUrl: "https://avatars.githubusercontent.com/u/36867526",
   skills: [
     "JavaScript",
@@ -34,28 +34,24 @@ export const DATA = {
         name: "GitHub",
         url: "https://github.com/ericksarabia",
         icon: Icons.github,
-
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/ericksarabia/",
         icon: Icons.linkedin,
-
         navbar: true,
       },
-      X: {
-        name: "X",
-        url: "https://x.com/3ricksarabia",
-        icon: Icons.x,
-
+      Bsky: {
+        name: "Bsky",
+        url: "https://bsky.app/profile/ericksarabia.bsky.social",
+        icon: Icons.bsky,
         navbar: true,
       },
       email: {
         name: "Send Email",
         url: "erick.sarabia@outlook.com",
         icon: Icons.email,
-
         navbar: false,
       },
     },
