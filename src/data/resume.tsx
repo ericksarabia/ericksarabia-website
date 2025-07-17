@@ -8,7 +8,7 @@ export const DATA = {
   location: "Hidalgo, Mexico",
   locationLink: "https://maps.app.goo.gl/bpHJJ8r5LoMW2rJU8",
   description:
-    "Engineering Manager / Software Engineer / JAMstack enthusiasts / Developer Experience.",
+    "Engineering Manager / Software Engineer / JAMstack enthusiasts / DX Advocate",
   summary:
     "Software Engineer with 12+ years of experience developing web applications using JavaScript, TypeScript, React and Node.js, with a focus on optimizing web projects and improving development experience. Much of my time is spent researching and implementing new web technologies. The best way to learn is by solving real problems.",
   avatarUrl: "https://avatars.githubusercontent.com/u/36867526",
@@ -130,7 +130,7 @@ export const DATA = {
       degree: "Master's Degree in Software Engineering and Management",
       logoUrl: "/utel.png",
       start: "2024",
-      end: "Present",
+      end: "2025",
     },
     {
       school: "Universidad Politécnica de Pachcua",
